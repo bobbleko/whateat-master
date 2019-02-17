@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".AboutMeFragment">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+            <Button
+                android:id="@+id/Group001"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="อาหารจานเดียว"
+                android:textSize="@dimen/h2"
+                android:textStyle="bold" />
+
+            <Button
+                android:id="@+id/Group002"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="ต้ม"
+                android:textSize="@dimen/h2"
+                android:textStyle="bold" />
+
+            <Button
+                android:id="@+id/Group003"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="ผัด"
+                android:textSize="@dimen/h2"
+                android:textStyle="bold" />
+
+            <Button
+                android:id="@+id/Group004"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="แกง"
+                android:textSize="@dimen/h2"
+                android:textStyle="bold" />
+
+            <Button
+                android:id="@+id/Group005"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="ทอด"
+                android:textSize="@dimen/h2"
+                android:textStyle="bold" />
+
+            <Button
+                android:id="@+id/Group006"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="ย่าง"
+                android:textSize="@dimen/h2"
+                android:textStyle="bold" />
+
+            <Button
+                android:id="@+id/Group007"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="อบ"
+                android:textSize="@dimen/h2"
+                android:textStyle="bold" />
+
+            <Button
+                android:id="@+id/Group008"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="นึ่ง"
+                android:textSize="@dimen/h2"
+                android:textStyle="bold" />
+
+            <Button
+                android:id="@+id/Group009"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="ยำ"
+                android:textSize="@dimen/h2"
+                android:textStyle="bold" />
+
+            <Button
+                android:id="@+id/Group0010"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="เส้น"
+                android:textSize="@dimen/h2"
+                android:textStyle="bold" />
+
+            <Button
+                android:id="@+id/Group0011"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="น้ำพริก"
+                android:textSize="@dimen/h2"
+                android:textStyle="bold" />
+
+            <Button
+                android:id="@+id/Group0012"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="ธัญพืช"
+                android:textSize="@dimen/h2"
+                android:textStyle="bold" />
+
+            <Button
+                android:id="@+id/Group0013"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="ผลไม้"
+                android:textSize="@dimen/h2"
+                android:textStyle="bold" />
+
+            <Button
+                android:id="@+id/Group0014"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="เครื่องดื่ม"
+                android:textSize="@dimen/h2"
+                android:textStyle="bold" />
+
+            <Button
+                android:id="@+id/Group0015"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="ขนมหวาน"
+                android:textSize="@dimen/h2"
+                android:textStyle="bold" />
+
+        </LinearLayout>
+
+    </ScrollView>
+
+
+</FrameLayout>

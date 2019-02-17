@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">WHAT Eat!</string>
+    <string name="title_toolber">แอพช่วยกันลด</string>
+
+    <string name="open">Open Drawer</string>
+    <string name="close">Close Drawer</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="Name">ชื่อ</string>
+    <string name="Surname">นามสกุล</string>
+    <string name="Male">ชาย</string>
+    <string name="Female">หญิง</string>
+    <string name="Age">อายุ</string>
+    <string name="Stature">ส่วนสูง</string>
+    <string name="weight">น้ำหนัก</string>
+    <string name="daily">พลังงานที่ต้องการ</string>
+    <string name="over_need">พลังงานเกินกว่าที่ต้องการ</string>
+    <string name="active">การออกกำลังกาย</string>
+
+    <string name="name_sur">อนันพงศ์</string>
+    <string name="school">..........</string>
+    <string name="title_activity_group1">Group1</string>
+
+    <string-array name="active_array">
+        <item>ไม่ได้ออกกำลัง</item>
+        <item>อาทิตย์ละ 1–3 ครั้ง</item>
+        <item>อาทิตย์ละ 3–5 ครั้ง</item>
+        <item>อาทิตย์ละ 6–7 ครั้ง</item>
+        <item>ออกกำลังกายอย่างหนัก</item>
+    </string-array>
+
+
+</resources>
